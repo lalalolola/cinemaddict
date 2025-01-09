@@ -6,6 +6,7 @@ import FilmCardView from '../view/film-card-view';
 import ButtonShowMoreView from '../view/button-show-more-view';
 import FilmsTopRatedListView from '../view/films-top-rated-list-view';
 import FilmsMostCommentedListView from '../view/films-most-commented-list-view.js';
+
 import {render} from '../render';
 
 export default class FilmsPresenter {
